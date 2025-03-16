@@ -1,5 +1,5 @@
 
-![logo](https://github.com/udityaseth3/Uditya-Seth/blob/main/Screenshot%202025-03-17%20002400.png)
+![logo](https://github.com/udityaseth3/udityaseth3/blob/main/Screenshot%202025-03-17%20002400.png)
 <h1 align="center">Hi 👋, I'm Uditya Seth</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
